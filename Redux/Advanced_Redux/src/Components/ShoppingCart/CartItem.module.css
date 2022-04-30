@@ -1,0 +1,24 @@
+.cartHeight
+{
+    max-height: 30rem;
+    overflow-y: scroll;
+}
+.cartHeight {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(69, 69, 95) rgb(158, 158, 158);
+  }
+  
+  /* Works on Chrome, Edge, and Safari */
+  .cartHeight::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .cartHeight::-webkit-scrollbar-track {
+    background: rgb(158, 158, 158);
+  }
+  
+  .cartHeight::-webkit-scrollbar-thumb {
+    background-color: rgb(69, 69, 95);
+    border-radius: 1rem;
+    border: 2px solid rgb(158, 158, 158);;
+  }
