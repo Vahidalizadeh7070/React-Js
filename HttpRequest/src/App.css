@@ -1,0 +1,10 @@
+.app
+{
+  min-height: 100vh;
+padding-top: 5rem;
+  background-color: black;
+}
+.rounded3
+{
+  border-radius: 1rem !important;
+}
