@@ -27,5 +27,6 @@ We have used Twilio in this project and implement an express back-end which made
 
 <h3>Validation_Custom_Hook</h3>
 In this project we have learned about custom Hook and how we can use custom hook as a validator. 
+<hr/>
 
 Finally, we should mention that the UI section is implemented by Bootstrap 5 framework.
